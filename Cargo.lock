@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "blockchain"
+name = "rust-bc"
 version = "0.1.0"
